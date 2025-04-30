@@ -2,7 +2,7 @@
 
 **AI-powered marketing assistant** for marketers, founders, and teams who want to drive growth without juggling ten tools. GetGetLeads brings lead generation, analytics, campaign automation, and more into one sleek, intelligent dashboard.
 
-![Dashboard Screenshot](./assets/dashboard-screenshot.png)
+![Dashboard Screenshot](assets-GGL/dashboard-GGL.png)
 
 ---
 
