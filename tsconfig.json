@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",  // Specifies the output folder for all emitted files
+    "rootDir": "./src",  // Specifies the root folder of input files
+    "allowJs": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,      // Enable all strict type-checking options
+    "module": "ESNext",  // Specify module code generation method
+    "moduleResolution": "node",
+    "target": "ESNext",  // Specify ECMAScript target version
+    "jsx": "react"
+  },
+  "include": [
+    "src/**/*"           // Include all files in the src folder
+  ],
+  "exclude": [
+    "node_modules",      // Exclude the node_modules directory
+    "dist"               // Exclude the dist directory to avoid reading from output
+  ]
+}
